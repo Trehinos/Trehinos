@@ -1,4 +1,4 @@
-Theses repositories are copies from my private hub on https://asgard.trehinos.eu/explore/projects.
+Theses repositories are copies from my private lab on https://asgard.trehinos.eu/explore/projects.
 
 My main projects :
  - [Thor](https://asgard.trehinos.eu/Trehinos/Thor) : a PHP framework,
