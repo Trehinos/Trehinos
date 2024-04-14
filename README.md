@@ -13,7 +13,7 @@ I left Github :(
 
 ### On Asgard
 My personnal forge. There, you can find :
- - [Osiris](https://asgard.trehinos.eu/osiris) : ([crates.io](https://crates.io/users/Trehinos)) a project of a virtual machine, base on Juse, work in progress.
+ - [Osiris](https://asgard.trehinos.eu/osiris) : ([crates.io](https://crates.io/users/Trehinos)) a project of a virtual machine, based on Juse, work in progress.
  - [Juse Console](https://asgard.trehinos.eu/Trehinos/juse_console) : an implementation of an ECMA-48 utility in C++ to create control strings easily.
  - Thor 2
  - Juse
