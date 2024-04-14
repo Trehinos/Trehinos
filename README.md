@@ -10,5 +10,5 @@ Here, on Github, you can find :
  - [Thor-Option](https://github.com/Trehinos/thor-option) : an option-type for PHP 8.1 and further.
 
 On Asgard (my personnal forge), you can find :
- - [Thor 2](https://asgard.trehinos.eu/thor2) : a modular PHP framework for PHP 8.3+, work in progress,
+ - [Thor 2](https://asgard.trehinos.eu/thor2)
  - [Osiris](https://asgard.trehinos.eu/osiris) : a project of a virtual machine, base on Juse, work in progress.
