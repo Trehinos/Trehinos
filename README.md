@@ -6,7 +6,7 @@
  - Thor (deprecated (see Thor 2)) and Juse (abandonned) copies, and,
  - [Thor-Option](https://github.com/Trehinos/thor-option) : an option-type for PHP 8.1 and further. Part of Thor 2,
 
-### On Asgard
+### On [Asgard](https://asgard.trehinos.eu/explore/projects)
 My personnal forge. There, you can find :
  - [Thor](https://asgard.trehinos.eu/Trehinos/Thor) (deprecated) : a PHP framework for PHP 8.1+,
  - [Thor 2](https://asgard.trehinos.eu/thor2) (🔗 [packagist](https://packagist.org/users/Trehinos/packages/))  
