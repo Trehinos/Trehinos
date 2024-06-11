@@ -15,7 +15,7 @@ My personnal forge. There, you can find :
  - [Osiris](https://asgard.trehinos.eu/osiris) (🔗 [crates.io](https://crates.io/users/Trehinos))  
    a project of a virtual machine written in rust, based on Juse, work in progress,  
    an example of a (work in progress) implementation here : https://asgard.trehinos.eu/osiris/virtual-process,
- - [Roussillon](https://asgard.trehinos.eu/roussillon-project) (🔗 [crates.io](https://crates.io/users/Trehinos))
+ - [Roussillon](https://asgard.trehinos.eu/roussillon-project) (🔗 [crates.io](https://crates.io/users/Trehinos))  
    a project of a language. For now, only the type system is developped : [Roussillon-Type-System](https://crates.io/crates/roussillon-type-system)
  - _[Juse](https://asgard.trehinos.eu/Trehinos/Juse) (abandonned) : a C++ virtual machine_,
  - [Juse Console](https://asgard.trehinos.eu/Trehinos/juse_console) : an implementation of an ECMA-48 utility in C++ to create control strings easily,
