@@ -1,3 +1,5 @@
+I am a french developper with 20 years of experience, specialized in PHP and adjacent technologies (web servers, APIs, HTTP, HTML/CSS/JS, etc) and I study C++ and Rust for side projects.
+
 ## Projects
 
 ### Thor
