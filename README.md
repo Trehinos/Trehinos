@@ -26,3 +26,4 @@
 ### Other
 
 - [Euui](https://github.com/Trehinos/euui)
+- [Juse](https://github.com/Trehinos/Juse)
