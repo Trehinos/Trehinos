@@ -28,5 +28,6 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
 ### Other
 
 - [Euui](https://github.com/Trehinos/euui)
+- [Coded chars](https://github.com/Trehinos/coded-chars)
 - [Juse](https://github.com/Trehinos/Juse) (deprecated)
 - Osiris machine (on [asgard](https://asgard.trehinos.eu/osiris))
