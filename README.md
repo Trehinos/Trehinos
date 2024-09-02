@@ -4,7 +4,7 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
 
 ### Thor
 
-> A PHP 8+ Framework
+> A **PHP** 8+ Framework
 
 - [Thor](https://github.com/Trehinos/Thor) (deprecated)
 - Thor2 (WIP) :
@@ -20,14 +20,14 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
  
 ### Roussillon (WIP)
 
-> Programming language developpement libraries in Rust.
+> Programming language developpement libraries in **Rust**.
 
 - [Type system](https://github.com/Trehinos/roussillon-type-system)
 - [Memory](https://github.com/Trehinos/roussillon-memory)
 
 ### Other
 
-- [Euui](https://github.com/Trehinos/euui)
-- [Coded chars](https://github.com/Trehinos/coded-chars)
-- [Juse](https://github.com/Trehinos/Juse) (deprecated)
-- Osiris machine (on [asgard](https://asgard.trehinos.eu/osiris))
+- [Euui](https://github.com/Trehinos/euui) (**Rust**)
+- [Coded chars](https://github.com/Trehinos/coded-chars) (**Rust**)
+- [Juse](https://github.com/Trehinos/Juse) (**C++**, deprecated)
+- Osiris machine (**Rust**, on [asgard](https://asgard.trehinos.eu/osiris))
