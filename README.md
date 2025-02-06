@@ -29,5 +29,6 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
 
 - [Euui](https://github.com/Trehinos/euui) (**Rust**)
 - [Coded chars](https://github.com/Trehinos/coded-chars) (**Rust**)
-- [Juse](https://github.com/Trehinos/Juse) (**C++**, deprecated)
+- [AnyOf](https://github.com/Trehinos/any_of) (**Rust**)
 - Osiris machine (**Rust**, on [asgard](https://asgard.trehinos.eu/osiris))
+- [Juse](https://github.com/Trehinos/Juse) (**C++**, deprecated)
