@@ -28,7 +28,7 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
 ### Other
 
 - [Euui](https://github.com/Trehinos/euui) (**Rust**)
-- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) (**Rust**)
+- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) -> [Balanced direction](https://github.com/Trehinos/balanced-direction) -> [Bbalanced neuron](https://github.com/Trehinos/balanced-neuron)
 - [Coded chars](https://github.com/Trehinos/coded-chars) (**Rust**)
 - [AnyOf](https://github.com/Trehinos/any_of) (**Rust**)
 - Osiris machine (**Rust**, on [asgard](https://asgard.trehinos.eu/osiris))
