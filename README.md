@@ -13,7 +13,7 @@ I am a french developper with 20 years of experience, specialized in PHP and adj
   - [Pdo extension](https://github.com/Trehinos/thor-pdo-extension)
   - [Light ORM](https://github.com/Trehinos/thor-pdo-table)
   - [Email](https://github.com/Trehinos/thor-message)
-  - [Option type](https://github.com/Trehinos/thor-option)
+  - [Safe types](https://github.com/Trehinos/thor-safe-types)
   - [Http](https://github.com/Trehinos/thor-http)
   - [Web](https://github.com/Trehinos/thor-web)
   - [Security](https://github.com/Trehinos/thor-security)
