@@ -1,4 +1,4 @@
-I am a french developper with 21 years of experience in development, specialized in PHP and adjacent technologies (web servers, APIs, HTTP, HTML/CSS/JS, etc) and I study C++ and Rust for side projects.
+I am a french developper with 21 years of experience in development, specialized in PHP and adjacent technologies (web servers, APIs, HTTP, HTML/CSS/JS, etc), and I study C++ and Rust, and system programming for side projects.
 
 ## Projects
 
