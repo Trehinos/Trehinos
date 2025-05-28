@@ -1,35 +1,65 @@
-I am a french developper with 21 years of experience in development, specialized in PHP and adjacent technologies (web servers, APIs, HTTP, HTML/CSS/JS, etc), and I study C++ and Rust, and system programming for side projects.
+# 👋 Hi, I'm Trehinos
 
-## Projects
+I'm a passionate French developer with over 21 years of experience specializing in **PHP** and adjacent web technologies (web servers, APIs, HTTP, HTML/CSS/JS, etc).  
+Currently, I'm deepening my knowledge in **C++**, **Rust**, and systems programming.
 
-### Thor
+---
 
-> A **PHP** 8+ Framework
+## 🛠️ Skills & Interests
 
-- [Thor](https://github.com/Trehinos/Thor) (deprecated)
-- Thor2 (WIP) :
+- **Languages:** PHP, Rust, C++, HTML, CSS, JavaScript
+- **Expertise:** Web development, API design, system architecture, code quality, open-source
+- **Currently Exploring:** Programming languages theory, safe types, low-level programming, memory models
+
+---
+
+## 🚀 Featured Projects
+
+### Thor Framework
+
+> A modular, modern PHP 8+ framework, rebuilt from the ground up.
+
+- [Thor](https://github.com/Trehinos/Thor) <sub>(deprecated)</sub>
+- **Thor2 (WIP):**
   - [Common library](https://github.com/Trehinos/thor-common)
   - [Process](https://github.com/Trehinos/thor-process)
-  - [Pdo extension](https://github.com/Trehinos/thor-pdo-extension)
+  - [PDO extension](https://github.com/Trehinos/thor-pdo-extension)
   - [Light ORM](https://github.com/Trehinos/thor-pdo-table)
   - [Email](https://github.com/Trehinos/thor-message)
   - [Safe types](https://github.com/Trehinos/thor-safe-types)
-  - [Http](https://github.com/Trehinos/thor-http)
+  - [HTTP](https://github.com/Trehinos/thor-http)
   - [Web](https://github.com/Trehinos/thor-web)
   - [Security](https://github.com/Trehinos/thor-security)
- 
+
+---
+
 ### Roussillon (WIP)
 
-> Programming language developpement libraries in **Rust**.
+> A set of programming language development libraries in **Rust**.
 
-- [Type system](https://github.com/Trehinos/roussillon-type-system)
-- [Memory](https://github.com/Trehinos/roussillon-memory)
+- [Type System](https://github.com/Trehinos/roussillon-type-system)
+- [Memory Model](https://github.com/Trehinos/roussillon-memory)
 
-### Other
+---
 
-- [Euui](https://github.com/Trehinos/euui) (**Rust**)
-- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) -> [Balanced direction](https://github.com/Trehinos/balanced-direction)
-- [Coded chars](https://github.com/Trehinos/coded-chars) (**Rust**)
-- [AnyOf](https://github.com/Trehinos/any_of) (**Rust**)
-- Osiris machine (**Rust**, on [asgard](https://asgard.trehinos.eu/osiris))
-- [Juse](https://github.com/Trehinos/Juse) (**C++**, deprecated)
+### 🧩 Other Notable Projects
+
+- [Euui](https://github.com/Trehinos/euui) (Rust)
+- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) → [Balanced direction](https://github.com/Trehinos/balanced-direction)
+- [Coded chars](https://github.com/Trehinos/coded-chars) (Rust)
+- [AnyOf](https://github.com/Trehinos/any_of) (Rust)
+- **Osiris machine** (Rust, on [asgard](https://asgard.trehinos.eu/osiris))
+- [Juse](https://github.com/Trehinos/Juse) (C++, deprecated)
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 [asgard.trehinos.eu](https://asgard.trehinos.eu/)
+- 💬 Feel free to reach out via issues or discussions on any of my repositories!
+
+---
+
+<!--
+Badges, statistics, or fun facts can be added here if you wish!
+-->
