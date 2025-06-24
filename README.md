@@ -40,6 +40,14 @@ Currently, I'm deepening my knowledge in **C++**, **Rust**, and systems programm
 - [Type System](https://github.com/Trehinos/roussillon-type-system)
 - [Memory Model](https://github.com/Trehinos/roussillon-memory)
 
+### Hermes (WIP)
+
+> A complete backend framework written in Rust.
+>
+> Currently provides HTTP structs, session and cookie management, and client/server services.
+
+[Hermes](https://github.com/Trehinos/hermes)
+
 ---
 
 ### 🧩 Other Notable Projects
@@ -56,6 +64,7 @@ Currently, I'm deepening my knowledge in **C++**, **Rust**, and systems programm
 ## 📫 Get in Touch
 
 - 🌐 [asgard.trehinos.eu](https://asgard.trehinos.eu/)
+- Direct contact : [dev@trehinos.eu](mailto:dev@trehinos.eu)
 - 💬 Feel free to reach out via issues or discussions on any of my repositories!
 
 ---
