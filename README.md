@@ -53,10 +53,10 @@ Currently, I'm deepening my knowledge in **C++**, **Rust**, and systems programm
 ### 🧩 Other Notable Projects
 
 - [Euui](https://github.com/Trehinos/euui) (Rust)
-- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) → [Balanced direction](https://github.com/Trehinos/balanced-direction)
+- [Balanced ternary](https://github.com/Trehinos/balanced-ternary) (Rust) → [Balanced direction](https://github.com/Trehinos/balanced-direction) (Rust, WIP)
 - [Coded chars](https://github.com/Trehinos/coded-chars) (Rust)
 - [AnyOf](https://github.com/Trehinos/any_of) (Rust)
-- **Osiris machine** (Rust, on [asgard](https://asgard.trehinos.eu/osiris))
+- **Osiris machine** (Rust, on [asgard](https://asgard.trehinos.eu/osiris), WIP)
 - [Juse](https://github.com/Trehinos/Juse) (C++, deprecated)
 
 ---
